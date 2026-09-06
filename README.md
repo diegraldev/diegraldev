@@ -59,8 +59,7 @@
 
 <div align="center">
 
-⭐ Profile maintained by [diego31-10](https://github.com/diego31-10)
-
-<img src="https://komarev.com/ghpvc/?username=diego31-10&style=for-the-badge&color=4B9EB8" />
-
+<p align="center">
+  📫 <b>Contact:</b> All social links & contacts are available in my GitHub profile header above!
+</p>
 </div>
