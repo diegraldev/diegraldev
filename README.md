@@ -29,7 +29,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- IT student focused on AI, automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
+- Data Science & AI engineering @ ESPOL , automation, and intelligent systems — building software that can think, adapt, and operate autonomously.  
 
 - Currently preparing to pursue a degree in Data Science & AI.
 
