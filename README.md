@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **Data Science & AI Engineering Student** at **ESPOL**.
+- 🎓 **Data Science & Artificial Intelligence Engineering Student** at **ESPOL**.
 - 💡 Focused on bridging the gap between **Artificial Intelligence, Data Analytics, and Business Strategy** — building products that not only leverage complex algorithms, but also drive real market value and operational efficiency.
 - 🚀 Interested in autonomous agents, data-driven decision-making, and full-stack system architecture designed for scalability.
 
