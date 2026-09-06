@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Hi+I'm+Diegral!" alt="Diego" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Data+Science+%26+AI+Student+%40+ESPOL;Building+Intelligent+%26+Business-Driven+Systems" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Data+Science+%26+AI+Student;Building+Intelligent+%26+Business-Driven+Systems" alt="Role" />
 <br>
 
 <!-- AI & Core Stack -->
