@@ -60,6 +60,6 @@
 <div align="center">
 
 <p align="center">
-  📫 <b>Contact:</b> All social links & contacts are available in my GitHub profile header above!
+  📫 <b>Connect:</b> All social links & contacts are available in my GitHub profile header above!
 </p>
 </div>
