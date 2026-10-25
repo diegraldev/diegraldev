@@ -1,8 +1,7 @@
 <div align="center">
 
-# Diegral
+### **Diegral**
 
-AI engineering
-
+0x41 0x49
 
 </div>
