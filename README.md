@@ -1,7 +1,6 @@
 <div align="center">
 
-### **Diegral**
+### Diegral.gguf
 
-0x41 0x49
 
 </div>
